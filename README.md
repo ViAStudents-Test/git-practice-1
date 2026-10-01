@@ -1,2 +1,2 @@
 # Git practice
-Usage
+Usage by Student B
